@@ -1,20 +1,26 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# UTMxHackathon
+Group: Vegetables  
+Group Members:
+- Lam Yoke Yu
+- Goe Jie Ying
+- Tan Yi Ya
+- Teh Ru Qian
 
-# Run and deploy your AI Studio app
+**Prototype Link**: [https://6a0164c087eb23e79d0b1d30--scintillating-choux-31ddff.netlify.app/](https://6a0164c087eb23e79d0b1d30--scintillating-choux-31ddff.netlify.app/)  
+**Video Link**: [https://youtu.be/W8BiFW_q5kQ](https://youtu.be/W8BiFW_q5kQ)
 
-This contains everything you need to run your app locally.
+## The Current Issue
+1. Many Malaysian students and fresh graduates struggle with:
+   - Overspending
+   - Poor budgeting habits
+   - Inconsistent savings
+2. Existing banking apps mainly track transactions but do not actively help users build better financial habits
 
-View your app in AI Studio: https://ai.studio/apps/ed25c75b-e26d-48ac-8264-4076902233ce
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Problems vs. Solutions
+| Problem | Solution |
+|---|---|
+| Overspending and poor budgeting habits | **Monthly Budget Plan** helps users manage salary with daily spending limits |
+| Difficulty saving consistently | **Automated Saving** automatically saves through round-up and leftover budget features |
+| Lack of motivation to save | **Goal Tracker** provides saving progress and target-based motivation |
+| Low financial awareness | **Behavioral Insights** analyse spending habits and provide AI recommendations |
+| Weak saving discipline | **Consistency Rewards** encourage daily saving habits through cashback and lucky draw incentives |
